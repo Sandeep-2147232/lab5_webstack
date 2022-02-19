@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="staff.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<?xml-stylesheet href="staff.xsl" type="text/xsl"?>
+<college>
+    <Staff id="1">
+        <Staff-name>staff1</Staff-name>
+        <Staff-dep>Dept1</Staff-dep>
+        <Staff-emailid>staff1@gmail.com</Staff-emailid>
+        <Staff-phonenum>1234532132</Staff-phonenum>
+    </Staff>
+    <Staff id="2">
+        <Staff-name>staff2</Staff-name>
+        <Staff-dep>Dept2</Staff-dep>
+        <Staff-emailid>staff2@gmail.com</Staff-emailid>
+        <Staff-phonenum>2123232422</Staff-phonenum>
+    </Staff>
+    <Staff id="3">
+        <Staff-name>staff3</Staff-name>
+        <Staff-dep>Dept1</Staff-dep>
+        <Staff-emailid>staff3@gmail.com</Staff-emailid>
+        <Staff-phonenum>9100119890</Staff-phonenum>
+    </Staff>
+    <Staff id="4">
+        <Staff-name>staff4</Staff-name>
+        <Staff-dep>Dept2</Staff-dep>
+        <Staff-emailid>staff4@gmail.com</Staff-emailid>
+        <Staff-phonenum>9842824242</Staff-phonenum>
+    </Staff>
+    <Staff id="5">
+        <Staff-name>staff5</Staff-name>
+        <Staff-dep>Dept3</Staff-dep>
+        <Staff-emailid>staff5@gmail.com</Staff-emailid>
+        <Staff-phonenum>4538938332</Staff-phonenum>
+    </Staff>
+</college>
+    

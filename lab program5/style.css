@@ -1,0 +1,65 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #6b3c3c;
+    font-family: 'Montserrat';
+}
+
+table{
+    background-color: #ffffff;
+    margin:2% 5%;
+    width:90%;
+    padding:20px;
+}
+
+tr>th{
+    background-color: #f82f2f;
+    color: #ffffff;
+    padding:10px;
+    
+}
+.CRUD{
+    background-color: #ffffff;
+    text-align: right;
+    padding-right: 3%;
+
+}
+
+button{
+    border: none;
+    border-radius: 8%;
+    padding: .5% 1%;
+    margin: .5%;
+    font-weight: 600;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.btnnn{
+    font-size: 30px;
+}
+
+.btnnn:hover{
+    cursor: pointer;
+    padding:5px;
+    color:#ffffff;
+    background-color:crimson;
+}
+
+#addRecordForm{
+    margin-top: 30px;
+    padding: 2% 5%;
+    border: 1px solid #000000;
+    background-color: #e3e3e3;
+    margin-bottom: 100px;
+    display: block;
+}
+
